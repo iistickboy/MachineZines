@@ -14,3 +14,6 @@ Page 4: As they finish up the zine, they realize that they accidentally included
 Page 5: MachineZines quickly tries to recall all the zines before anyone gets their hands on it.
 
 Page 6: In the end, the zines are all safely retrieved, and MachineZines learns to be more careful with their zine-making.
+
+Thanks to ironicsans on Reddit for sharing the code:
+https://www.reddit.com/user/ironicsans
