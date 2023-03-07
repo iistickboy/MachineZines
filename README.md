@@ -1,5 +1,5 @@
 # MachineZines
-Code to create a zine-creating chatbot GUI with OpenAI's API. 
+Code to create a zine-creating chatbot GUI with OpenAI's API. An expansion of my Machine Zines project that started with GPT-2: https://medium.com/towards-data-science/helping-kids-play-with-artificial-intelligence-68af8f8ba280
 
 Here's the first zine I generated with this remarkable little bot. Who knows what top-secret code you'll uncover?
 
